@@ -335,5 +335,6 @@ yusa_kozue
 yuuki_\(sao\)
 yuuki_haru
 yuuki_mikan
-bea_(pokemon)
-nessa_(pokemon)
+bea_\(pokemon\)
+nessa_\(pokemon\)
+sigewinne_\(genshin_impact\)

@@ -63,4 +63,6 @@ maribel_hearn
 matara_okina
 merlin_prismriver
 mitsugashira_enoko
-cynthia_(pokemon)
+cynthia_\(pokemon\)
+elesa_\(pokemon\)
+skyla_\(pokemon\)
