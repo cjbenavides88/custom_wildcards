@@ -1,0 +1,16 @@
+background, ancient ruins, crumbling stone, overgrown ivy, distant mountains, clear sky, worn steps
+background, lush jungle, vibrant greens, exotic flowers, crystal-clear river
+at the beach { | , sunset | , midday, summer, palm trees | , cove }
+halloween, costumes, pumpkins
+japanese castle, open kimono, samurai, katana, tatami
+in a cabin in the mountain, cozy, dim flame light, fireplace
+in an {inside|outside} onsen, pool, water, sauna
+in a brothel, a bar, dim light, velvet furniture, padded leather chairs, at night, prostitutes
+hiking in the mountains, epic landscape
+in a dungeon, candles, stone wall, prison
+in public transport, daylight
+wings, angel, divine light
+((sci-fi)), metal body parts, futuristic city
+abandoned room, ruinous furniture, dirty mattress, no sheets, dirty walls, scratches in the wall, dirty floor
+pool, swimsuit, sunny day, water
+in the shower, wet { | , classic house bathroom | , japanese apartment bathroom | , modern apartment bathroom }
