@@ -15,6 +15,7 @@ emilia_\(re:zero\)
 eternity_larva
 eula_\(genshin_impact\)
 ezo_red_fox_(kemono_friends)
+fate_testarossa
 female_byleth_\(fire_emblem\)
 fennec_(kemono_friends)
 golden_eagle_(kemono_friends)
@@ -46,6 +47,7 @@ komano_aunn
 kumoi_ichirin
 kurokoma_saki
 letty_whiterock
+lyrical_nanoha
 maribel_hearn
 matara_okina
 mavuika_\(genshin_impact\)
@@ -54,6 +56,7 @@ mitsugashira_enoko
 mizuhashi_parsee
 murasa_minamitsu
 murosaki_miyo
+myoukou_\(kancolle\)
 nagae_iku
 nippaku_zanmu
 nishida_satono
@@ -77,10 +80,13 @@ saigyouji_yuyuko
 sakata_nemuno
 saren_\(princess_connect!\)
 shameimaru_aya
+signum
 skyla_\(pokemon\)
 soga_no_tojiko
 son_biten
+sonia_\(pokemon\)
 stoat_(kemono_friends)
+subaru_nakajima
 sword_maiden
 tamatsukuri_misumaru
 tatara_kogasa
@@ -100,7 +106,9 @@ watatsuki_no_yorihime
 wiz_(konosuba)
 xianyun_\(genshin_impact\)
 yae_miko
+yagami_hayate
 yagokoro_eirin
+yaia_\(granblue_fantasy\)
 yakumo_ran
 yakumo_yukari
 yamashiro_takane
@@ -108,4 +116,5 @@ yasaka_kanako
 yatadera_narumi
 yomotsu_hisami
 yorigami_jo'on
+yorihime_nao, glasses, short hair, black eyes, black hair, hairclip
 yunyun_\(konosuba\)

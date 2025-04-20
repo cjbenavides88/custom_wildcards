@@ -29,6 +29,7 @@ black_heart_\(neptunia\)
 blanc_\(neptunia\)
 bonnie_\(pokemon\)
 bowsette
+cagliostro_\(granblue_fantasy\), child
 chen
 chloe_\(pokemon\)
 chloe_von_einzbern
@@ -49,9 +50,11 @@ elizabeth_bathory_\(fate\)
 eri_(boku_no_hero_academia)
 eris_greyrat
 eromanga_sensei
+fate_testarossa, child
 filo_\(tate_no_yuusha_no_nariagari\)
 fischl_\(genshin_impact\)
 flandre_scarlet
+flonne
 frieren
 fubuki_(blue_archive)
 fujita_kotone
@@ -100,6 +103,7 @@ ibuki_suika
 ichihara_nina
 illyasviel_von_einzbern
 inaba_tewi
+index_\(toaru_majutsu_no_index\)
 iono_\(pokemon\)
 iris_\(konosuba\),kono_subarashii_sekai_ni_shukufuku_wo!
 iris_\(pokemon\)
@@ -128,6 +132,7 @@ kaname_madoka
 kanna_kamui
 karyl_\(princess_connect!\)
 kasuga_ayumu
+kasugano_sora
 kasumi_\(blue_archive\)
 kawashiro_nitori
 kei_\(blue_archive\)
@@ -176,7 +181,10 @@ lunasa_prismriver
 lynette_\(genshin_impact\)
 lyra_\(pokemon\)
 lyrica_prismriver
+lyrical_nanoha, child
 lysithea_von_ordelia
+maestrale_\(kancolle\)
+mahira_\(granblue_fantasy\)
 makaino_ririmu
 makino_ruki
 makoto_\(princess_connect!\),wolf_girl,wolf_ears
@@ -235,6 +243,7 @@ norn_greyrat
 nowi_\(fire_emblem\)
 nozomi_\(blue_archive\)
 ookami_mio
+ooshio_\(kancolle\)
 oozora_subaru
 oshino_shinobu
 otonose_kanade
@@ -256,6 +265,7 @@ reisa_\(blue_archive\)
 reisen_udongein_inaba
 remilia_scarlet
 riko_(made_in_abyss)
+ro-500_\(kancolle\)
 rosa_\(pokemon\)
 rosmontis_\(arknights\)
 roxie_\(pokemon\)
@@ -269,6 +279,7 @@ sakura_kyoko
 sakura_miko
 sakurai_momoka
 sangonomiya_kokomi
+saria_\(zelda\), short hair, loli
 sasaki_chie
 sayu_\(genshin_impact\)
 seia_\(blue_archive\)
@@ -280,6 +291,7 @@ serena_\(pokemon\)
 serika_\(blue_archive\)
 sessyoin_kiara
 shalltear_bloodfallen
+shana
 sheffy_\(princess_connect!\)
 shiki_eiki
 shimakaze_\(kancolle\)
@@ -301,6 +313,7 @@ star_sapphire
 sucrose_\(genshin_impact\)
 sukuna_shinmyoumaru
 sunny_milk
+suou_momoko
 sussurro_\(arknights\)
 suzunami_\(azur_lane\)
 suzuran_\(arknights\)
@@ -335,9 +348,11 @@ uzumaki_himawari,long_hair,
 vampy
 vanilla_\(nekopara\), cat_ears,
 vert_\(neptunia\)
+vivio, loli
 white_heart_\(neptunia\)
 wriggle_nightbug
 xiangling_\(genshin_impact\)
+yagami_hayate, loli
 yagami_hikari
 yakumo_yukari
 yamada_elf
@@ -349,6 +364,7 @@ yoimiya_\(genshin_impact\)
 yonketa,original,cat_ears,loli
 yorigami_shion
 yoshida_yuuko_\(machikado_mazoku\)
+yoshimi_\(blue_archive\)
 yukihana_lamy
 yuni_\(princess_connect!\)\
 yusa_kozue
