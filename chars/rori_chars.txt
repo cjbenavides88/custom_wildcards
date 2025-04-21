@@ -51,7 +51,7 @@ eri_(boku_no_hero_academia)
 eris_greyrat
 eromanga_sensei
 fate_testarossa, child
-filo_\(tate_no_yuusha_no_nariagari\)
+filo_\(tate_no_yuusha_no_nariagari\),feathered_wings,wings,white_wings
 fischl_\(genshin_impact\)
 flandre_scarlet
 flonne
@@ -371,3 +371,4 @@ yusa_kozue
 yuuki_\(sao\)
 yuuki_haru
 yuuki_mikan
+neru_(blue_archive)
