@@ -231,9 +231,11 @@ nekomiya_mana,zenless_zone_zero,
 neneka_\(princess_connect!\)
 nepgear
 neptune_\(neptunia\)
+neru_\(blue_archive\)
 nessa_\(pokemon\)
 neuro-sama
 nia_\(xenoblade\)
+niko_\(blue_archive\)
 nilou_\(genshin_impact\)
 ninomae_ina'nis
 niwatari_kutaka
@@ -371,4 +373,3 @@ yusa_kozue
 yuuki_\(sao\)
 yuuki_haru
 yuuki_mikan
-neru_(blue_archive)
