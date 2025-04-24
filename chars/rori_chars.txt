@@ -25,6 +25,7 @@ bache_(azur_lane)
 bea_\(pokemon\)
 beatrice_\(re:zero\)
 becky_blackbell
+bianca_(pokemon)
 black_heart_\(neptunia\)
 blanc_\(neptunia\)
 bonnie_\(pokemon\)
@@ -46,6 +47,7 @@ diona_\(genshin_impact\)
 dori_\(genshin_impact\)
 ebisu_eika
 edelgard_von_hresvelg
+elesa_(pokemon)
 elizabeth_bathory_\(fate\)
 eri_(boku_no_hero_academia)
 eris_greyrat
@@ -105,6 +107,7 @@ illyasviel_von_einzbern
 inaba_tewi
 index_\(toaru_majutsu_no_index\)
 iono_\(pokemon\)
+irida_(pokemon)
 iris_\(konosuba\),kono_subarashii_sekai_ni_shukufuku_wo!
 iris_\(pokemon\)
 iris_heart
@@ -114,6 +117,7 @@ izumi_konata
 izuna_\(blue_archive\)
 jack_the_ripper_(fate/apocrypha)
 jahy
+jasmine_(pokemon)
 jasmine_\(pokemon\)
 jeanne_d'arc_\(fate\)
 jouga_maya
@@ -153,6 +157,7 @@ komeiji_koishi
 komeiji_satori
 komekko,kono_subarashii_sekai_ni_shukufuku_wo!
 konpaku_youmu
+korrina_(pokemon)
 koseki_bijou
 kousaka_kirino
 kris_\(pokemon\)
@@ -160,6 +165,7 @@ kudamaki_tsukasa
 kurodani_yamame
 kurumi_(lycoris_recoil)
 kyoka_\(princess_connect!\)
+lacey_(pokemon)
 laffey_\(azur_lane\)
 lana_\(pokemon\)
 lass_\(pokemon\)

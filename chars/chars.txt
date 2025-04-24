@@ -78,6 +78,7 @@ ringo_\(touhou\)
 robin_(female)_\(fire_emblem\)
 saigyouji_yuyuko
 sakata_nemuno
+samus_aran
 saren_\(princess_connect!\)
 shameimaru_aya
 signum
