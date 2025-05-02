@@ -1,14 +1,16 @@
-abigail_williams_(fate)
+abigail_williams_\(fate\)
 acerola_\(pokemon\)
 aisha_greyrat
 akagi_miria
 akashi_\(azur lane\)
+akatsuki_\(kancolle\)
 akemi_homura
 aki_shizuha
 akizuki_airi
 alice_cartelet
 alice_zuberg
 amane_kanata
+amatsukaze_\(kancolle\)
 amber_\(genshin_impact\)
 amiya_\(arknights\)
 andira_\(granblue_fantasy\)
@@ -21,6 +23,7 @@ asada_shino
 asui_tsuyu
 asuna_\(sao\)
 atsuko_\(blue_archive\)
+ayanami_\(azur_lane\)
 ayanami_rei
 bache_(azur_lane)
 bea_\(pokemon\)
@@ -43,7 +46,6 @@ common_dolphin_(kemono_friends)
 coral_\(pokemon\)
 daiyousei
 dawn_\(pokemon\)
-diona_(genshin_impact)
 diona_\(genshin_impact\)
 dori_\(genshin_impact\)
 ebisu_eika
@@ -60,6 +62,7 @@ flandre_scarlet
 flonne
 frieren
 fubuki_(blue_archive)
+fubuki_\(kancolle\)
 fujita_kotone
 fujiwara_no_mokou
 furina_\(genshin_impact\)
@@ -81,6 +84,7 @@ haruka_\(blue_archive\)
 hata_no_kokoro
 hatsune_miku
 hex_maniac_\(pokemon\),loli
+hibiki_\(kancolle\)
 hieda_no_akyuu
 hifumi_(blue_archive)
 hifumi_\(blue_archive\)
@@ -94,6 +98,7 @@ himemushi_momoyo
 hina_\(blue_archive\)
 hinanawi_tenshi
 hinatsuru_ai
+hirasawa_yui
 hiyori_\(princess_connect!\)
 holo
 hoshimachi_suisei
@@ -106,9 +111,12 @@ i-401_\(kancolle\)
 ibuki_\(blue_archive\)
 ibuki_suika
 ichihara_nina
+ikazuchi_\(kancolle\)
 illyasviel_von_einzbern
 inaba_tewi
+inazuma_\(kancolle\)
 index_\(toaru_majutsu_no_index\)
+inkling_girl
 iono_\(pokemon\)
 irida_(pokemon)
 iris_\(konosuba\),kono_subarashii_sekai_ni_shukufuku_wo!
@@ -120,7 +128,6 @@ izumi_konata
 izuna_\(blue_archive\)
 jack_the_ripper_(fate/apocrypha)
 jahy
-jasmine_(pokemon)
 jasmine_\(pokemon\)
 jeanne_d'arc_\(fate\)
 jouga_maya
@@ -182,8 +189,10 @@ liko_\(pokemon\)
 liliruca_arde
 lillie_\(pokemon\)
 lily_white
+little_bel_\(azur_lane\)
 llenn_\(sao\)
 louise_francoise_le_blanc_de_la_valliere
+lrl_\(last_origin\), yellow eyepatch, hair ribbon, two_side_up, yellow eyes
 luciana_de_montefio
 lucina_\(fire_emblem\)
 lumine_\(genshin_impact\)
@@ -212,6 +221,7 @@ melty_q_melromarc,twintails,blue_hair,
 midori_\(blue_archive\)
 mimi_\(princess_connect!\)
 mio_\(xenoblade\)
+misaka_mikoto
 misaki_\(princess_connect!\)
 misogi_\(princess_connect!\)
 misty_\(pokemon\)
@@ -220,6 +230,7 @@ miyako_\(blue_archive\)
 miyako_yoshika
 miyu_\(blue_archive\)
 miyu_edelfelt
+mizuhashi_parsee, flat chest
 mococo_abyssgard
 momoi_\(blue_archive\)
 mona_\(genshin_impact\)
@@ -227,10 +238,12 @@ mononobe_no_futo
 moriya_suwako
 motoori_kosuzu
 murasaki_shion
+mutsuki_\(azur_lane\)
 mutsuki_\(blue_archive\)
 myrtle_\(arknights\)
 mystia_lorelei
 nagato_\(azur_lane\)
+nagato_yuki
 nagatoro_hayase
 nahida_\(genshin_impact\)
 nakano_azusa
@@ -250,6 +263,7 @@ nia_\(xenoblade\)
 niko_\(blue_archive\)
 nilou_\(genshin_impact\)
 ninomae_ina'nis
+nishikino_maki
 niwatari_kutaka
 nobeta
 noire_\(neptunia\)
@@ -263,6 +277,7 @@ oshino_shinobu
 otonose_kanade
 oyama_mahiro
 pan_\(dragon_ball\)
+peni_parker
 petra_leyte
 ping_hai_\(azur_lane\)
 plana_\(blue_archive\)
@@ -274,6 +289,8 @@ princess_zelda
 professor_niyaniya_\(blue_archive\)
 pururut
 qiqi_\(genshin_impact\)
+queen_draco_\(fate\), flat chest
+queen_elizabeth_\(azur_lane\)
 raphtalia
 reisa_\(blue_archive\)
 reisen_udongein_inaba
@@ -286,6 +303,7 @@ roxie_\(pokemon\)
 roxy_migurdia
 rozaliya_olenyeva
 rumia
+ryuujou_\(kancolle\)
 ryuzaki_kaoru
 sabrina_\(pokemon\)
 sajo_yukimi
@@ -307,6 +325,7 @@ serika_\(blue_archive\)
 sessyoin_kiara
 shalltear_bloodfallen
 shana
+sheffield_\(azur_lane\)
 sheffy_\(princess_connect!\)
 shiki_eiki
 shimakaze_\(kancolle\)
@@ -315,7 +334,6 @@ shiroko_\(blue_archive\),cat_tail,cat_ears,animal_ear_fluff
 shirosaki_hana
 shun_\(blue_archive\)
 shuro_\(blue archive\)
-shuten_douji_(fate)
 shuten_douji_\(fate\)
 sigewinne_\(genshin_impact\)
 silica
@@ -331,6 +349,7 @@ sukuna_shinmyoumaru
 sunny_milk
 suou_momoko
 sussurro_\(arknights\)
+suzumiya_haruhi
 suzunami_\(azur_lane\)
 suzuran_\(arknights\)
 sylphiette_\(mushoku_tensei\)
@@ -358,14 +377,15 @@ unicorn_\(azur_lane\)
 uruha_rushia
 usada_pekora
 usami_sumireko
-uzuki_(kancolle)
 uzuki_\(kancolle\)
 uzumaki_himawari
 uzumaki_himawari,long_hair,
+valiant_\(azur_lane\), crown, flat chest, red ribbon
 vampy
 vanilla_\(nekopara\), cat_ears,
 vert_\(neptunia\)
 vivio, loli
+warspite_\(azur_lane\)
 white_heart_\(neptunia\)
 wriggle_nightbug
 xiangling_\(genshin_impact\)
@@ -388,4 +408,6 @@ yusa_kozue
 yuuki_\(sao\)
 yuuki_haru
 yuuki_mikan
+yuzuki_yukari
+zuikaku_\(kancolle\)
 yuzu_(blue_archive)
