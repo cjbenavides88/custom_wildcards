@@ -20,6 +20,7 @@ female_byleth_\(fire_emblem\)
 fennec_(kemono_friends)
 golden_eagle_(kemono_friends)
 goutokuji_mike
+hakui_koyori
 haniyasushin_keiki
 hecatia_lapislazuli
 hijiri_byakuren
@@ -82,6 +83,7 @@ samus_aran
 saren_\(princess_connect!\)
 shameimaru_aya
 signum
+silver_wolf_\(honkai:_star_rail\)
 skyla_\(pokemon\)
 soga_no_tojiko
 son_biten

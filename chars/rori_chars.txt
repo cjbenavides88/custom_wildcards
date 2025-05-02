@@ -6,6 +6,7 @@ akashi_\(azur lane\)
 akemi_homura
 aki_shizuha
 akizuki_airi
+alice_cartelet
 alice_zuberg
 amane_kanata
 amber_\(genshin_impact\)
@@ -74,12 +75,14 @@ gokou_ruri
 green_heart_\(neptunia\)
 hachikuji_mayoi
 hakozaki_serika
+hakui_koyori
 hakurei_reimu
 haruka_\(blue_archive\)
 hata_no_kokoro
 hatsune_miku
 hex_maniac_\(pokemon\),loli
 hieda_no_akyuu
+hifumi_(blue_archive)
 hifumi_\(blue_archive\)
 high_elf_archer_\(goblin_slayer!\)
 hijiri_byakuren
@@ -150,15 +153,18 @@ kisaki_\(blue_archive\)
 kishin_sagume
 kisume
 klee_\(genshin_impact\)
+koharu_(blue_archive)
 koharu_\(blue_archive\)
 kokkoro_\(princess_connect!\)
 kokona_\(blue_archive\)
+kokonoe_rin
 komeiji_koishi
 komeiji_satori
 komekko,kono_subarashii_sekai_ni_shukufuku_wo!
 konpaku_youmu
 korrina_(pokemon)
 koseki_bijou
+kotobuki_tsumugi
 kousaka_kirino
 kris_\(pokemon\)
 kudamaki_tsukasa
@@ -290,6 +296,7 @@ sangonomiya_kokomi
 saria_\(zelda\), short hair, loli
 sasaki_chie
 sayu_\(genshin_impact\)
+seia_(blue_archive)
 seia_\(blue_archive\)
 seiran_\(touhou\)
 sekibanki
@@ -314,6 +321,7 @@ sigewinne_\(genshin_impact\)
 silica
 sonia_\(pokemon\)
 sonoda_chiyoko
+sora_(blue_archive)
 sothis_\(fire_emblem\)
 souryuu_asuka_langley
 sparkle_\(honkai:_star_rail\)
@@ -343,6 +351,7 @@ toutetsu_yuuma
 toyosatomimi_no_miko
 tsukiyono_ruli
 tsukumo_yatsuhashi
+tsutsukakushi_tsukiko
 tsuyuri_kanao
 uni_\(neptunia\)
 unicorn_\(azur_lane\)
@@ -379,3 +388,4 @@ yusa_kozue
 yuuki_\(sao\)
 yuuki_haru
 yuuki_mikan
+yuzu_(blue_archive)
