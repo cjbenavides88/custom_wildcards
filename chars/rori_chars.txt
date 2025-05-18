@@ -225,6 +225,7 @@ misaka_mikoto
 misaki_\(princess_connect!\)
 misogi_\(princess_connect!\)
 misty_\(pokemon\)
+mitsumine_mashiro
 miyadeguchi_mizuchi
 miyako_\(blue_archive\)
 miyako_yoshika
@@ -234,6 +235,7 @@ mizuhashi_parsee, flat chest
 mococo_abyssgard
 momoi_\(blue_archive\)
 mona_\(genshin_impact\)
+mononobe_alice
 mononobe_no_futo
 moriya_suwako
 motoori_kosuzu
@@ -329,6 +331,7 @@ sheffield_\(azur_lane\)
 sheffy_\(princess_connect!\)
 shiki_eiki
 shimakaze_\(kancolle\)
+shinosawa_hiro
 shirakami_fubuki
 shiroko_\(blue_archive\),cat_tail,cat_ears,animal_ear_fluff
 shirosaki_hana
@@ -366,6 +369,7 @@ texas_\(arknights\)
 tiki_\(fire_emblem\)
 tokoyami_towa
 tomoe_mami
+touhoku_kiritan
 toutetsu_yuuma
 toyosatomimi_no_miko
 tsukiyono_ruli
@@ -408,6 +412,6 @@ yusa_kozue
 yuuki_\(sao\)
 yuuki_haru
 yuuki_mikan
+yuzu_(blue_archive)
 yuzuki_yukari
 zuikaku_\(kancolle\)
-yuzu_(blue_archive)
